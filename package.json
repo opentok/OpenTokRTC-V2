@@ -60,7 +60,7 @@
     "helmet": "^4.1.1",
     "http2": "^3.3.7",
     "ioredis": "^4.17.3",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "opentok": "^2.10.0",
     "qs": "^6.9.4",
     "swagger-boilerplate": "^0.1.6",
