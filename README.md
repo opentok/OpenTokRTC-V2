@@ -56,7 +56,7 @@ You will also need these an OpenTok API key and secret. You can obtain these by 
 First, install the dependencies for the server.
 
 If you use [nvm](https://github.com/nvm-sh/nvm), have it use the correct
-version of Node (v8):
+version of Node (v12):
 
 ```sh
 $ nvm use
